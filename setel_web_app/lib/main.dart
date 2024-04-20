@@ -99,4 +99,5 @@ class History {
 
 class Info {
   // Implement Informasi Shelter UI
+  // Implement Backend
 }
