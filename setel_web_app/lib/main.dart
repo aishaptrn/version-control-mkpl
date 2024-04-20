@@ -95,4 +95,8 @@ class History {
   // Finishing
 }
 
-// Release
+// Release 1.0.0
+
+class Info {
+  // Implement Informasi Shelter UI
+}
