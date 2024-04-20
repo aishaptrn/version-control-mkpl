@@ -102,3 +102,5 @@ class Info {
   // Implement Backend
   // Finishing
 }
+
+// Release 1.1.0
