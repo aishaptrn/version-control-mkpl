@@ -139,4 +139,5 @@ class Pinjam {
 class History {
   // Implement History Peminjaman UI
   // Implement Details UI
+  // Implement Backend
 }
