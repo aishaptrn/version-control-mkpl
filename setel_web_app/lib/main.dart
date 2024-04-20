@@ -135,3 +135,10 @@ class Pinjam {
   // Implement Backend
   // Finishing
 }
+
+class History {
+  // Implement History Peminjaman UI
+  // Implement Details UI
+  // Implement Backend
+  // Finishing
+}
