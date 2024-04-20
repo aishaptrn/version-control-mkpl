@@ -86,6 +86,8 @@ class Pinjam {
   // Implement Pinjam Kendaraan UI
   // Implement Backend
   // Finishing
+
+  // Fix Bug
 }
 
 class History {
