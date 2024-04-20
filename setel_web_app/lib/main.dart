@@ -129,3 +129,9 @@ class Login {
   // Implement Backend 
   // Finishing
 }
+
+class Pinjam {
+  // Implement Pinjam Kendaraan UI
+  // Implement Backend
+  // Finishing
+}
